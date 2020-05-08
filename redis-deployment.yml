@@ -13,7 +13,7 @@ spec:
   template:
     metadata:
       name: redis-pod
-      lables:
+      labels:
         name: redis-pod
         app: demo-voting-app
     spec:
